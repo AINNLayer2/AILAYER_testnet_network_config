@@ -1,6 +1,6 @@
 {
 	"chainId": 2648,
-	"name": "AINN Layer2 Testnet",
+	"name": "AILayer Testnet",
 	"nativeCurrency": {
 		"name": "Bitcoin",
 		"symbol": "BTC",
@@ -8,19 +8,19 @@
 	},
 	"rpcUrls": {
 		"default": {
-			"http": ["https://rpc.anvm.io"]
+			"http": ["https://testnet-rpc.ailayer.xyz"]
 		},
 	},
 	"blockExplorers": {
 		"default": {
 			"name": "Explorer",
-			"url": "https://explorer.anvm.io"
+			"url": "https://testnet-explorer.ailayer.xyz"
 		},
 	},
 	"bridge": {
 		"default": {
 			"name": "Bridge",
-			"url": "https://bridge.anvm.io"
+			"url": "https://bridge.ailayer.xyz"
 		},
 	}
 }
